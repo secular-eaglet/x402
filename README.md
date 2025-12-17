@@ -43,6 +43,7 @@ pip install x402
 ```shell
 go get github.com/coinbase/x402/go
 ```
+> Tip: Ensure all required environment variables are configured before running examples or local services.
 
 </details>
 
