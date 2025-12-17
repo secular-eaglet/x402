@@ -1,0 +1,6 @@
+{
+  "network": "testnet",
+  "rpcUrl": "",
+  "timeoutMs": 10000,
+  "logLevel": "info"
+}
